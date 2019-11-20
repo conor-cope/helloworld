@@ -1,4 +1,4 @@
 # helloworld
-[p] test [/p]
+test 
 This is a work in progress
-I [i] think [/i] I know what I am doing??
+I think I know what I am doing??
